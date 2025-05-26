@@ -1,0 +1,7 @@
+pydicom>=2.3.0
+numpy>=1.20.0
+matplotlib>=3.5.0
+highdicom>=0.21.0
+scikit-image>=0.19.0
+scipy>=1.8.0
+tqdm>=4.65.0
